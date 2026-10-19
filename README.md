@@ -51,24 +51,17 @@ Use this only on networks you own or have permission to monitor.
 
 
 
-        **TASK TWO**
-
               
-              
-              
-              
-              
-              <img width="1600" height="900" alt="task2-banner-toc" src="https://github.com/user-attachments/assets/e6e2c4c8-960a-430e-ac0e-fdb55404291d" />
 
               
            
            
         
-
+**TASK TW0**
 
 # 🎣 Phishing Awareness Training
 
-Task 2 of my cybersecurity internship: a training module that teaches people how to recognize, resist and report phishing attacks.
+**Task 2 of my cybersecurity internship: a training module that teaches people how to recognize, resist and report phishing attacks.**
 
 **Estimated time:** about 15 minutes, with a quiz at the end.
 
