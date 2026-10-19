@@ -22,6 +22,11 @@ packets, analyzes their structure, and prints useful details.
 (<img width="865" height="459" alt="snifffff3" src="https://github.com/user-attachments/assets/c81d5a4d-da8e-4035-be91-8cd2839a6ef4" />
 )
 
+<img width="923" height="482" alt="snifffff" src="https://github.com/user-attachments/assets/808e95d4-c401-493c-aa31-eaedd89e6f32" />
+
+<img width="903" height="476" alt="snifffff 2" src="https://github.com/user-attachments/assets/df8d5883-4c5e-4365-8aff-3b2b9e7ecfdf" />
+
+
 ## What I learned
 - Packets have layers: IP, then TCP/UDP/ICMP, then payload
 - HTTPS and QUIC payloads are encrypted, so they look like random bytes
